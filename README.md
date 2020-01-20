@@ -13,4 +13,4 @@ Collection of projects I've done for self learning purposes using Python.
  A classification model using text features to predict whether or not a DonorsChoose.org project proposal submitted wiil be approved. **Skills**: Feature Engineering, Text manipulation, LightGBM 
  
  * [Predicting Boston Housing Prices: ](https://github.com/maticortesr/data-science-portfolio/blob/master/Boston_housing/Boston_Housing.ipynb)
-A model for price prediction using tree-based models. **Skills**: Data manipulation, Random Forest, XGBoost
+A model for price prediction using tree-based models. Bayesian Optimization used for Hyperparameter tunning on XGBoost. **Skills**: Data manipulation, Random Forest, XGBoost
